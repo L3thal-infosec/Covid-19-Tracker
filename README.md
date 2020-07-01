@@ -48,7 +48,7 @@
 <b> Features: </b>
 <ul>
    <li> Necessary Precautions List
-   <li> Statewise Coronovirus Statistics</li>
+   <li> Statewise Coronavirus Statistics</li>
    <li> Help-Line Center Contacts</li>
    <li> <a href="https://www.covidvisualizer.com/">World Covid-19 Visualizer</a></li>
 </ul>
