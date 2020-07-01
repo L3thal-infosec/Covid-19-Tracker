@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/L3thal-infosec/Covid-19-Tracker.svg?logo=github)]([https://github.com/L3thal-infosec/Covid-19-Tracker/stargazers](https://github.com/L3thal-infosec/Covid-19-Tracker/stargazers)) [![GitHub forks](https://img.shields.io/github/forks/L3thal-infosec/Covid-19-Tracker.svg?logo=github&color=teal)]([https://github.com/L3thal-infosec/Covid-19-Tracker/network/](https://github.com/L3thal-infosec/Covid-19-Tracker/network/))
 <br>
 
-### [TRY IT OUT(Gdrive Apk Link)](https://devpost.com/software/ctos-phone "Google Drive")		
+### [TRY IT OUT(Gdrive Apk Link)](https://drive.google.com/file/d/1Rwndoh-79SHkYP9iwqOCr-_Bk6GXtVPa/view?usp=sharing "Google Drive")		
 <br>
 
 ## SCREENSHOTS
