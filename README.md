@@ -20,6 +20,7 @@
   <br>
  <b> HOMEPAGE </b>
 <br> 
+<br>
    <img src="https://github.com/L3thal-infosec/Covid-19-Tracker/blob/master/assets/screenshots/statewisedata.jpg?raw=true" alt="Demo Video" height="400" />
  <br>
   <b> STATEWISE COVID-19 DATA </b>
